@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Is There Really No Happiness?",
+  "base_artist": "Porter Robinson",
+  "createdAt": "2025-12-31T12:41:55.156208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Is There Really No Happiness?",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/01_Is_There_Really_No_Happiness_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Is There Really No Happiness？",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/02_Is_There_Really_No_Happiness_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Is There Really No Happiness?",
+      "artist": "ポーター・ロビンソン",
+      "has_synced": true,
+      "path": "select/03_Is_There_Really_No_Happiness_ポーター・ロビンソン.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Is There Really No Happiness Without This Feeling?",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/04_Is_There_Really_No_Happiness_Without_This_Feeling_Porter_Robinson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Porter Robinson - Is There Really No Happiness? (Official Audio)",
+      "artist": "Porter Robinson",
+      "has_synced": true,
+      "path": "select/05_Porter_Robinson_-_Is_There_Really_No_Happiness__(Official_Audio)_Porter_Robinson.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Is There Really No Happiness?",
+      "artist": "Porter Robinson",
+      "has_synced": false,
+      "path": "select/pl_01_Is_There_Really_No_Happiness_Porter_Robinson.txt"
+    }
+  ]
+}
